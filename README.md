@@ -1,3 +1,3 @@
 # my-first-repo
 This is the repository that I am making for the first lab of my Web Apps class.
-Jaden Lopez and Anne Hathaway
+Jaden Lopez and Sandra Bullock
